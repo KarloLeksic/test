@@ -2,3 +2,5 @@ ovo je file za probu 1
 
 izmjena u prvoj datoteci
 aaaa
+
+ovo su nove promjene u dev grani
